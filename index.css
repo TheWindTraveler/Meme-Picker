@@ -1,4 +1,26 @@
-body {
-    background-color: black;
-    color: white;
+html, body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Typography */
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #eed6d3;
+    margin: 0;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 16px;
+}
+
+h3 {
+    margin: 25px;
 }
